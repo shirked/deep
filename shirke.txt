@@ -1,1 +1,2 @@
 This is another file in the same directory.
+I have typed this line through GitHub website.
