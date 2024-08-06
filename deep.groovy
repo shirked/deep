@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage("Name") {
       steps {
-        echo "Deep Shirke"
+        echo "Deep The Great"
       }
     }
   }
